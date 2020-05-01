@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Heqing Shi"
   avatar           : "profile.png"
-  bio              : "Financial Mathematics Player& FRM Holder& Duck Breeder"
+  bio              : "Financial Mathematics Player" \ "FRM Holder" \ "Duck Breeder"
   location         : "London, UK"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   #instagram        :
   #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   #lastfm           :
-  linkedin         : "/in/heqing-shi-76367312b/"
+  linkedin         : "https://www.linkedin.com/in/heqing-shi-76367312b/"
   #orcid            : "http://orcid.org/yourorcidurl"
   #pinterest        :
   #soundcloud       :
