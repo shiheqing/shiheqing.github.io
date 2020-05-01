@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Notes in Stochastic Finance"
-    url: /publications/
+  - title: "Notes"
+    url: /notes/
 
   - title: "Talks"
     url: /talks/    
@@ -15,7 +15,7 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Curriculum Vitae"
+  - title: "CV"
     url: /cv/
     
   - title: "Guide"
