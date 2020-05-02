@@ -15,4 +15,4 @@ During my spare time, I usually travel around with a duck, do my workout in the 
 
 Simple Codes
 ======
-I stored some simple codes in derivative pricing by solving a PDE via Monte Carlo, Finite Difference, and other numerical methods. 
+I stored some simple codes written by me used for derivative pricing by solving a PDE via Monte Carlo, Finite Difference, or other numerical methods. Some codes about variety of closed form solutions are also available. If you are interested in those, you can visit my Github page. I will constantly update some simple codes there.  
