@@ -15,10 +15,10 @@ During my spare time, I usually travel around with a duck, do my workout in the 
 
 Research Interests
 ======
-* Measure theory in exotic option pricng
-* Machine Learning algorithm to predict the probability of default under time-dependent framework
-* Pricing in incomplete market
-* Numerical methods in solving PDE
+* Measure theory in exotic option pricng;
+* Machine Learning algorithm to predict the probability of default under time-dependent framework;
+* Pricing in incomplete market;
+* Numerical methods in solving PDE;
 
 Simple Codes
 ======
