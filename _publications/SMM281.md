@@ -7,4 +7,4 @@ venue: 'SMM281 Notes'
 paperurl: 'http://shiheqing.github.io/files/SMM281_Notes.pdf'
 ---
 
-[Download paper here](http://shiheqing.github.io/files/SMM306_Typed_Notes.pdf)
+[Download paper here](http://shiheqing.github.io/files/SMM281_Notes.pdf)
