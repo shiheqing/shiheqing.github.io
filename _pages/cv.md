@@ -26,30 +26,22 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+Certificates
+======
+* Financial Risk Manager I & II
+  
 Programming Languages
 ======
-* RStudio
-* MATLAB
-* C
-* VBA
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Statistical Analysis:
+  * RStudio
+  * SAS
+* Econometrics Analysis:
+  * STATA
+  * OxMetrics
+* Scientific Computing:
+  * MATLAB
+* Macro:
+  * VBA
   
 Service and leadership
 ======
