@@ -7,4 +7,4 @@ venue: 'SMM272 Notes'
 paperurl: 'http://shiheqing.github.io/files/SMM272_RevisionNotes.pdf'
 ---
 
-[Download paper here](http://academicpages.github.io/files/SMM272_RevisionNotes.pdf)
+[Download paper here](http://shiheqing.github.io/files/SMM272_RevisionNotes.pdf)
