@@ -11,4 +11,4 @@ citation: 'Ales černý (2020). &quot; Advanced Stochastic'
 
 [Download the notes here](http://shiheqing.github.io/files/Chapter1_ASv4.pdf)
 
-Recommended citation: Ales černý (2020). "Advanced Stochastics."
+Recommended citation: Ales černý (2020). "Advanced Stochastics".
