@@ -28,7 +28,7 @@ Programming Languages
 * Statistical Analysis:
   * RStudio
   * SAS
-* Econometrics Analysis:
+* Econometric Analysis:
   * STATA
   * OxMetrics
 * Scientific Computing:
