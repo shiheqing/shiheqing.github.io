@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Myself"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi,
+I'm a graduate in Statistics and Mathematical Finance. I have been studying in London for four years. I received my Bachelor's degree in Statistics, Economics and Finance from University College London, and now I'm doing my Master's in Financial Mathematics in Cass Business School, City University of London and to be completed in September 2020.
+
+During my spare time, I usually travel around with a duck, do my workout in the gym, or simply stay at home and pick up some new knowledge and skills from Coursera. I have great interests in stochastic analysis, particularly its application in derivative pricing. I'm actively seeking a suitable PhD place in Stochastic Analysis or Machine Learning, and also job opportunities in Risk Management and Data Science.
 
 A data-driven personal website
 ======
