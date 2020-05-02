@@ -8,8 +8,7 @@ venue: 'SMM306 NOTES'
 paperurl: 'http://shiheqing.github.io/files/Chapter1_ASv4.pdf'
 citation: 'Ales černý (2020). &quot; Advanced Stochastic'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download the notes here](http://shiheqing.github.io/files/Chapter1_ASv4.pdf)
 
-Recommended citation: Ales černý (2020). "Advanced Stochastics."
+Recommended citation: Ales černý (2020). "Advanced Stochastics"
