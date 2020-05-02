@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Risk Analysis"
 collection: publications
-permalink: /files/SMM272_RevisionNotes.pdf
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2015-10-01
 venue: 'Journal 1'
-paperurl: 'http://shiheqing.github.io/files/SMM272_RevisionNotes.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'http://academicpages.github.io/files/SMM272_RevisionNotes.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://shiheqing.github.io/files/SMM272_RevisionNotes.pdf)
+[Download paper here](http://academicpages.github.io/files/SMM272_RevisionNotes.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+
