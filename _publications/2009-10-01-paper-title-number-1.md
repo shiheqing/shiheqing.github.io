@@ -1,12 +1,10 @@
 ---
 title: "Advanced Stochastic Modelling"
-collection: notes
-permalink: files/Chapter1_AS.pdf
-excerpt: 'This is the course notes of the module SMM306 Advanced Stochastic Modelling in MSc Financial Mathematics programme, Cass Business School, City University of London'
-date: 2020-05-02
-venue: 'SMM306 NOTES'
-paperurl: 'http://shiheqing.github.io/files/Chapter1_AS.pdf'
-citation: 'Ales černý (2020). &quot; Advanced Stochastic'
+collection: NOTES
+excerpt: 'This the course notes of the module SMM306 Advanced Stochastic Modelling of MSc Financial Mathematics programme in Cass Business School, City University of London.'
+date: 05-02-2020
+venue: 'SMM306 Notes'
+paperurl: 'http://shiheqing.github.io/files/SMM306_Typed_Notes.pdf'
 ---
-[Download the notes here](http://shiheqing.github.io/files/Chapter1_AS.pdf)
-Recommended citation: Ales černý (2020). "Advanced Stochastic" <i>Course Notes</i>. 1.
+
+[Download paper here](http://shiheqing.github.io/files/SMM306_Typed_Notes.pdf)
