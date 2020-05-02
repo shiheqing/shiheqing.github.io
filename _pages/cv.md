@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Brif CV"
+title: "Brif Curriculum Vitae"
 permalink: /cv/
 author_profile: false
 redirect_from:
