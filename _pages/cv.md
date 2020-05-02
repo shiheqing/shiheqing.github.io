@@ -28,7 +28,7 @@ Work experience
   
 Certificates
 ======
-* Financial Risk Manager I & II
+* Financial Risk Manager I & II (Global Association of Risk Professions)
   
 Programming Languages
 ======
@@ -41,7 +41,7 @@ Programming Languages
 * Scientific Computing:
   * MATLAB
 * Macro:
-  * VBA
+  * Visual Basic Application
   
 Service and leadership
 ======
