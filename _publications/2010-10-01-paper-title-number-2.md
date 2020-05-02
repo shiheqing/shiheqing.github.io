@@ -1,15 +1,10 @@
 ---
 title: "Risk Analysis"
-collection: publications
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/SMM272_RevisionNotes.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+collection: NOTES
+excerpt: 'This the course notes of the module SMM272 Risk Analysis of MSc Financial Mathematics programme in Cass Business School, City University of London.'
+date: 05-02-2020
+venue: 'SMM272 Notes'
+paperurl: 'http://shiheqing.github.io/files/SMM272_RevisionNotes.pdf'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/SMM272_RevisionNotes.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
-
