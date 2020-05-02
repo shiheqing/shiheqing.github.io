@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Brif CV"
 permalink: /cv/
 author_profile: false
 redirect_from:
@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-* The Estimation of the CO2 Emissions for Vehicles Manufactured in the EU Based on Multivariate Features
+* Estimation of the CO2 Emissions for Vehicles Manufactured in the EU Based on Multivariate Features
   * Supervisor: Prof. Richard Chandler, Department of Statistics, UCL
   
 Certificates
