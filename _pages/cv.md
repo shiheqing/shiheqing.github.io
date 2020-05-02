@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
@@ -14,17 +14,10 @@ Education
 * BSc in Statistics, Economics and Finance, University College London, 2016-2019
 * MSc in Financial Mathematics, Cass Business School, 2019-2020
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* The Estimation of the CO2 Emissions for Vehicles Manufactured in the EU Based on Multivariate Features
+  * Supervisor: Prof. Richard Chandler, Department of Statistics, UCL
   
 Certificates
 ======
@@ -43,6 +36,3 @@ Programming Languages
 * Macro:
   * Visual Basic Application
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
