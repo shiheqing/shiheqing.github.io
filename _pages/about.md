@@ -22,4 +22,4 @@ Research Interests
 
 Simple Codes
 ======
-I stored some simple codes written by me used for derivative pricing by solving a PDE via Monte Carlo, Finite Difference, or other numerical methods. Some codes about variety of closed form solutions are also available. If you are interested in those, you can visit my Github page. I will constantly update some simple codes there.  
+I have written some simple codes used for derivative pricing by solving a PDE via Monte Carlo, Finite Difference, or other numerical methods. Some codes about variety of closed form solutions in option pricing or other topics are also available. If you are interested in those, you can visit my Github page. I will constantly update some simple codes there.  
