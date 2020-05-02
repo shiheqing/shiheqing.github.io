@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Brif Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in Statistics, Economics and Finance, University College London, 2016-2019
+* MSc in Financial Mathematics, Cass Business School, 2019-2020
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Estimation of the CO2 Emissions for Vehicles Manufactured in the EU Based on Multivariate Features
+  * Supervisor: Prof. Richard Chandler, Department of Statistics, UCL
   
-Skills
+Certificates
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Financial Risk Manager I & II (Global Association of Risk Professions)
   
-Talks
+Programming Languages
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Statistical Analysis:
+  * RStudio
+  * SAS
+* Econometric Analysis:
+  * STATA
+  * OxMetrics
+* Scientific Computing:
+  * MATLAB
+* Macro:
+  * Visual Basic Application
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

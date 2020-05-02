@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+title: "Risk Analysis"
+collection: NOTES
+excerpt: 'This the course notes of the module SMM272 Risk Analysis of MSc Financial Mathematics programme in Cass Business School, City University of London.'
+date: 05-02-2020
+venue: 'SMM272 Notes'
+paperurl: 'http://shiheqing.github.io/files/SMM272_RevisionNotes.pdf'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://shiheqing.github.io/files/SMM272_RevisionNotes.pdf)
