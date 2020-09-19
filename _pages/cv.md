@@ -17,7 +17,7 @@ Research experience
 ======
 * The Estimation of the CO2 Emissions for Vehicles Manufactured in the EU Using Multivariate Features Data
   * Supervisor: Prof. Richard Chandler, Department of Statistics, UCL
-- Preprocessed 21,156 pieces of data on vehicle emissions in the EU; Target-encoded those categorical features with high cardinality; Linearly splined some of numerical features where necessary;
+    * Preprocessed 21,156 pieces of data on vehicle emissions in the EU; Target-encoded those categorical features with high cardinality; Linearly splined some of numerical features where necessary;
 
 * Financial Fraud Detection With Machine Learning
   * Supervisor: Prof. Alan Chalk, Director of Machine Learning Solution Ltd.
