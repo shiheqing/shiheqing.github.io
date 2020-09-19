@@ -32,7 +32,7 @@ Research experiences
 * Credit Risk in Option Pricing: The Application of Jump-To-Default Models
   * Supervisor: Dr. Laura Ballotta, Cass Business School
     * Extended the traditional non-defaultable stochastic process of stock price S twith a default jump, which forces S tto jump to zero at the time of default $\tau$, and remains $S_{t}$ = 0 for all $t > \tau$; By adding a default intensity $\lambda$ in the drift, the discounted extended stock price process $e^{−r\cdot t}S_{t}$ is still a martingale under the risk-neutral measure;
-    * Re-formularised the traditional option pricing method to include the probability of default contained in the jump-to-default extended $S_{t};
+    * Re-formularised the traditional option pricing method to include the probability of default contained in the jump-to-default extended $S_{t}$;
     * Employed diffusional stochastic volatility models (Heston’s type), pure jump Lévy models (the variance Gamma and the CGMY) as the base processes, and extended them with the jump-to-default component;
     * Used COS method which focuses on Fourier cosine expansion of characteristic function as the numerical pricing method; Derived characteristic functions for jump-to-default extended models;
     * Used observed put option prices for model calibration;
