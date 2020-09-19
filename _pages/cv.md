@@ -15,23 +15,27 @@ Education
 
 Research experience
 ======
-* Estimation of the CO2 Emissions for Vehicles Manufactured in the EU Based on Multivariate Features
+* The Estimation of the CO2 Emissions for Vehicles Manufactured in the EU Using Multivariate Features Data
   * Supervisor: Prof. Richard Chandler, Department of Statistics, UCL
+- Preprocessed 21,156 pieces of data on vehicle emissions in the EU; Target-encoded those categorical features with high cardinality; Linearly splined some of numerical features where necessary;
+
+* Financial Fraud Detection With Machine Learning
+  * Supervisor: Prof. Alan Chalk, Director of Machine Learning Solution Ltd.
+* Credit Risk in Option Pricing: The Application of Jump-To-Default Models
+  * Supervisor: Dr. Laura Ballotta, Cass Business School
   
 Certificates
 ======
 * Financial Risk Manager I & II (Global Association of Risk Professions)
+* Coursera Course C++ Programming, Peking University
   
-Programming Languages
+Programming Languages & Professional Softwares
 ======
-* Statistical Analysis:
-  * RStudio
-  * SAS
-* Econometric Analysis:
-  * STATA
-  * OxMetrics
-* Scientific Computing:
-  * MATLAB
-* Macro:
-  * Visual Basic Application
+* RStudio
+* MATLAB
+* Python
+* SAS
+* STATA
+* OxMetrics
+* VBA
   
