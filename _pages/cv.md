@@ -18,11 +18,20 @@ Research experience
 * The Estimation of the CO2 Emissions for Vehicles Manufactured in the EU Using Multivariate Features Data
   * Supervisor: Prof. Richard Chandler, Department of Statistics, UCL
     * Preprocessed 21,156 pieces of data on vehicle emissions in the EU; Target-encoded those categorical features with high cardinality; Linearly splined some of numerical features where necessary;
-
+    * Used the Principal Component Analysis (PCA) as the dimension reduction algorithm to pick up those most important features that can describe most of the variation of the dataset;
+    * Applied Elastic-Net regression to predict CO 2emissions, under L1 and L2 regularisation;
+    * Used randomised search algorithm to tune the weights of L1 and L2 penalty.
+    
 * Financial Fraud Detection With Machine Learning
   * Supervisor: Prof. Alan Chalk, Director of Machine Learning Solution Ltd.
+    * Applied penalised logistic regression on a 1 million entries dataset;
+    * Encoded categorical features using Weight-of-Evidence encoder; included all the possible combinations of interaction pairs between those features with the largest 10 coefficients;
+    * Used Gradient Boosting Decision Tree (GBDT) to fit residuals of the model iteratively, and linearly combined all classifiers learned at each iteration together to get a model with higher performance;
+    * Explored automated machine learning algorithms such as Auto-Sklearn, Tree-Based Pipeline Optimisation Tool (TPOT) and AutoKeras, and used those algorithms to train our model; The final model returned by automated machine learning algorithms benefited from model ensemble.
+    
 * Credit Risk in Option Pricing: The Application of Jump-To-Default Models
   * Supervisor: Dr. Laura Ballotta, Cass Business School
+    * Extended the traditional non-defaultable stochastic process of stock price S twith a default jump, which forces S tto jump to zero at the time of default $\tau$, and remains $S_{t}$ = 0 for all $t > \tau$; By adding a default intensity $\lambda$ in the drift, the discounted extended stock price process $e^{−r\cdot t}S_{t}$ is still a martingale under the risk-neutral measure;
   
 Certificates
 ======
