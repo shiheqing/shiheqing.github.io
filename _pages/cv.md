@@ -13,7 +13,7 @@ Education
 * BSc in Statistics, Economics and Finance, University College London, 2016-2019
 * MSc in Financial Mathematics, Cass Business School, 2019-2020
 
-Research experience
+Research experiences
 ======
 * The Estimation of the CO2 Emissions for Vehicles Manufactured in the EU Using Multivariate Features Data
   * Supervisor: Prof. Richard Chandler, Department of Statistics, UCL
@@ -40,11 +40,5 @@ Certificates
   
 Programming Languages & Professional Softwares
 ======
-* RStudio
-* MATLAB
-* Python
-* SAS
-* STATA
-* OxMetrics
-* VBA
+RStudio / MATLAB / Python / SAS / STATA / OxMetrics / VBA
   
