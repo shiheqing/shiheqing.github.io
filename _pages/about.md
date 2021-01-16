@@ -22,4 +22,4 @@ Research Interests
 
 Simple Codes
 ======
-I have written some simple codes which solves PDEs numerically using for example Monte Carlo, Finite Difference and so on in my Github repository, which you may find useful. Some codes that used to reproduce a theory in some interesting papers are also available. If you are interested in those, you can visit my Github page for details. I will constantly update some simple codes there.
+I have written some simple codes which solves PDEs numerically using for example Monte Carlo, Finite Difference and so on in my Github repository, which you may find useful. Some codes that used to reproduce interesting papers I read during my research are also available. If you are interested in those, you can visit my Github page for details. I will constantly update some simple codes there.
