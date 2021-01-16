@@ -41,9 +41,9 @@ Research experiences
 Certificates
 ======
 * Financial Risk Manager I & II (Global Association of Risk Professions)
-* Coursera Course C++ Programming, Peking University
+* Membership of Beta Gamma Sigma Honor Society
   
 Programming Languages & Professional Softwares
 ======
-RStudio / MATLAB / Python / SAS / STATA / OxMetrics / VBA
+R / MATLAB / Python / Latex
   
