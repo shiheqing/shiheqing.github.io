@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Researches
+title: Miscellaneous
 ---
 
 <p class="message">
