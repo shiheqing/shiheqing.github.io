@@ -1,7 +1,8 @@
 # Setup
 title:               Heqing SHI
 tagline:             ''
-description:         'I''m currently a (3rd year) PhD (in Fintech) candidate at <a href="https://www.business-school.ed.ac.uk/" target="_blank">University of Edinburgh Business School</a>.'
+description:         'I''m currently a (3rd year) PhD (in Fintech) candidate at <a href="https://www.business-school.ed.ac.uk/" 
+                      target="_blank">University of Edinburgh Business School</a>. &#128522; Feel free to reach me through Heqing.Shi[at]ed[dot]ac[dot]uk.'
 url:                 https://shiheqing.github.io
 baseurl:             ''
 paginate:            5
