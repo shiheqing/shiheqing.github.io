@@ -1,7 +1,7 @@
 # Setup
 title:               Heqing SHI
 tagline:             ''
-description:         "I'm currently a (3rd year) PhD (in Fintech) candidate at <a href="https://www.business-school.ed.ac.uk/" target="_blank">University of Edinburgh Business School</a>"
+description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://shiheqing.github.io
 baseurl:             ''
 paginate:            5
