@@ -570,40 +570,39 @@ body.dark-mode {
   color: #fff;
 }
 
-/* Example custom CSS for light and dark mode switch */
-.dark-mode-switch {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  z-index: 1000;
+/* _sass/main.scss or your custom CSS file */
+
+.sidebar-item {
+  margin-top: 20px; /* Adjust as needed */
 }
 
-.dark-mode-switch input {
-  display: none;
+.dark-mode-switch-label {
+  margin-right: 10px;
 }
 
-.dark-mode-switch label {
-  display: block;
+.sidebar-dark-mode-toggle {
+  display: inline-block;
+  width: 40px; /* Adjust width as needed */
+  height: 20px; /* Adjust height as needed */
   position: relative;
   cursor: pointer;
-  width: 60px;
-  height: 30px;
+  -webkit-appearance: none;
+  appearance: none;
   background-color: #ccc;
-  border-radius: 15px;
+  border-radius: 10px;
+  outline: none;
   transition: background-color 0.3s;
-  text-align: center;
-  line-height: 30px;
 }
 
-.dark-mode-switch input:checked + label {
+.sidebar-dark-mode-toggle:checked {
   background-color: #2196F3; /* Color when dark mode is active */
 }
 
-.dark-mode-switch label::before {
+.sidebar-dark-mode-toggle::before {
   content: '';
   position: absolute;
-  width: 26px;
-  height: 26px;
+  width: 16px;
+  height: 16px;
   border-radius: 50%;
   background-color: white;
   top: 2px;
@@ -611,6 +610,6 @@ body.dark-mode {
   transition: transform 0.3s;
 }
 
-.dark-mode-switch input:checked + label::before {
-  transform: translateX(30px);
+.sidebar-dark-mode-toggle:checked::before {
+  transform: translateX(20px); /* Adjust distance as needed */
 }
