@@ -2,7 +2,8 @@
 title:               Heqing SHI
 tagline:             ''
 description:         '&#128075; I''m currently a PhD candidate (in FinTech) at <a href="https://www.business-school.ed.ac.uk/" 
-                      target="_blank">University of Edinburgh Business School</a>. You can reach me via Heqing.Shi[at]ed[dot]ac[dot]uk &#128526'
+                      target="_blank">University of Edinburgh Business School</a>.<br>
+                      Feel free to reach me via Heqing.Shi[at]ed[dot]ac[dot]uk &#128526'
 url:                 https://shiheqing.github.io
 baseurl:             ''
 paginate:            5
@@ -11,7 +12,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Heqing Shi
-  url:               https://twitter.com/mdo
+  url:               
   email:             Heqing.Shi@ed.ac.uk
 
 # Gems
