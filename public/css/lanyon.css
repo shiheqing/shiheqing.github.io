@@ -556,16 +556,3 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
-
-
-/* Light Mode */
-body {
-  background-color: #fff;
-  color: #333;
-}
-
-/* Dark Mode */
-body.dark-mode {
-  background-color: #333;
-  color: #fff;
-}

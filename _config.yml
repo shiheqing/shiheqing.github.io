@@ -1,6 +1,6 @@
 # Setup
 title:               Heqing SHI
-#tagline:             ''
+tagline:             ''
 description:         '&#128075; I''m currently a PhD candidate (in FinTech) at <a href="https://www.business-school.ed.ac.uk/" 
                       target="_blank">University of Edinburgh Business School</a>.<br><br>
                       Feel free to reach me via:<br> Heqing.Shi[at]ed[dot]ac[dot]uk &#128526'
@@ -25,4 +25,4 @@ google_analytics_id: G-8CWTH2F3FT
 
 markdown: kramdown
 
-#favicon: /public/emojo_favicon.ico
+favicon: /public/emojo_favicon.ico
