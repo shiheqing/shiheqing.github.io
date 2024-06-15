@@ -27,4 +27,4 @@ R / MATLAB / Python / Latex
 <br>
 <br>
 <br>
-<a href="https://docs.qq.com/pdf/DSUNscEJmS2F4QUpS" target="_blank">Up-to-date CV is available here</a>
+<a href="https://docs.qq.com/pdf/DSUNscEJmS2F4QUpS" target="_blank">*Up-to-date CV is available here*</a>
