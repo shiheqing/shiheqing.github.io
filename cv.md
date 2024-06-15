@@ -24,5 +24,4 @@ Softwares
 R / MATLAB / Python / Latex
 
 
-
-[Detailed CV is available here](https://docs.qq.com/pdf/DSU5wdXRPcW5aVk5T)
+[Up-to-date CV is available here](https://docs.qq.com/pdf/DSUNscEJmS2F4QUpS)
