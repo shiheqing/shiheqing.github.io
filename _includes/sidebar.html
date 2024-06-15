@@ -2,25 +2,6 @@
      styles, `#sidebar-checkbox` for behavior. -->
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
-<script>
-  function toggleSidebarDarkMode() {
-    var body = document.body;
-    body.classList.toggle("sidebar-dark-mode");
-    
-    // Save mode preference to local storage
-    var isSidebarDarkMode = body.classList.contains("sidebar-dark-mode");
-    localStorage.setItem("sidebarDarkMode", isSidebarDarkMode);
-  }
-
-  document.addEventListener("DOMContentLoaded", function() {
-    // Check local storage for sidebar dark mode preference
-    var sidebarDarkMode = localStorage.getItem("sidebarDarkMode");
-    if (sidebarDarkMode === "true") {
-      document.body.classList.add("sidebar-dark-mode");
-    }
-  });
-</script>
-
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
@@ -56,15 +37,6 @@
 
     </p>
   </div>
-
-  <div class="sidebar-item">
-    <label class="dark-mode-switch-label" for="sidebar-dark-mode-toggle">Dark Mode:</label>
-    <input type="checkbox" id="sidebar-dark-mode-toggle" class="sidebar-dark-mode-toggle" onclick="toggleSidebarDarkMode()">
-  </div>
-
-</div>
-
-
 
   <!--<div class="sidebar-item">
     <p>
