@@ -8,7 +8,8 @@ order: 1
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>-->
 <br>
-<u>**Model-Free Risk-Neutral Density with Constrained Machine Learning:**</u>
+
+**<u>Model-Free Risk-Neutral Density with Constrained Machine Learning:</u>** <br>
 I'm currently working on the estimation of predictive information for stocks from their options, together with my supervisors. We start from the *Breeden and Litzenberger (1978)* theorem and enhence the recovery of risk-neutral density (RND) by using machine learning with constraints. The proposed constrained-machine-learning-empowered RND-recovery method generates improved tail risk and moment estimations.
 
 <div style="text-align: center;">
