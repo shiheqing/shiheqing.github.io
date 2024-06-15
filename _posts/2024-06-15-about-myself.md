@@ -17,9 +17,9 @@ During my spare time, I usually travel around, do my workout in a gym, or simply
 Research Interests
 ======
 
-* Interpretable ML to understand the dynamics of systemic risk;
-* Interpretable ML in stochastic modelling and option prcing;
-* Interpretable ML in asset pricing and returns dynamics modelling;
+* Option pricing and option-implied information;
+* Risk forecasting and asset pricing;
+* Ehance/explain the above with machine learning models;
 
 Social Media（自媒体账号）
 ======
