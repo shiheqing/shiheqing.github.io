@@ -4,8 +4,6 @@ title: Curriculum Vitae
 order: 3
 ---
 
-{% include base_path %}
-
 Education
 ======
 
