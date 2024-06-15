@@ -14,7 +14,7 @@ I'm currently working on the estimation of predictive information for stocks fro
 
 <div style="text-align: center;">
   <figure style="display: inline-block;">
-    <img src="/images/example_rnd_ibm.jpn" alt="Recovered RNDs for IBM" style="width: 100%; height: auto">
+    <img src="/images/example_rnd_ibm.jpg" alt="Recovered RNDs for IBM" style="width: 100%; height: auto">
     <figcaption>Example recovered RNDs for IBM</figcaption>
   </figure>
 </div>
