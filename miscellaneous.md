@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Miscellaneous
+order: 3
 ---
 
 <p class="message">

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Codes
+order: 2
 ---
 
 <p class="message">
