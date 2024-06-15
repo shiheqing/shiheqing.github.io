@@ -15,6 +15,7 @@ Awards & Certificates
 ======
 
 * Edinburgh Doctoral College Scholarship
+* 基金从业资格 (中国证券投资基金业协会)
 * Certified Financial Risk Manager (Global Association of Risk Professions)
 * Membership of Beta Gamma Sigma Honor Society
 
