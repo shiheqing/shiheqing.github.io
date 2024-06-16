@@ -173,12 +173,6 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
 }
 
-/* make the sidebar item larger */
-.sidebar-item i{
-  font-size: 20px; /* Adjust the font size as needed */
-  margin-right: 10px; /* Optional: Adjust spacing between icons and text */
-}
-
 /* Sidebar nav */
 .sidebar-nav {
   border-bottom: 1px solid rgba(255,255,255,.1);
