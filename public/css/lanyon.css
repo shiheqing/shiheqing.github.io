@@ -172,8 +172,8 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar-item p:last-child {
   margin-bottom: 0;
 }
-.sidebar-item i {
-  font-size: 15px; /* Adjust the font size as needed */
+.sidebar-item i{
+  font-size: 20px; /* Adjust the font size as needed */
   margin-right: 10px; /* Optional: Adjust spacing between icons and text */
 }
 
