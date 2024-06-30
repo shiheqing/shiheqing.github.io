@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-order: 3
+order: 4
 ---
 
 Education
