@@ -9,4 +9,4 @@ order: 3
 </p>-->
 <br>
 
-- **<u>Economics-Aware Machine for Option-Implied Risk Metrics</u>**, 2024 Edinburgh World-Class Workshop, 28 Jun 2024, University of Edinburgh Business School
+**Economics-Aware Machine for Option-Implied Risk Metrics**, *2024 Edinburgh World-Class Workshop, 28 Jun 2024, University of Edinburgh Business School*
