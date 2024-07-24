@@ -9,7 +9,7 @@ order: 5
 </p>-->
 <br>
 - I'm contributing to <a href="https://uebs-stats-group.github.io/stats-tools/" target="_blank">*Statistics for Business School Research*</a> organized by *UEBS Statistics Group*. Check it out &#129488;
-<br>
+<br><br>
 - I attended **2024 Asian Summer School in Econometrics and Statistics** in Dongbei University of Finance and Economics, Dalian, China
 <div style="text-align: center;">
   <figure style="display: inline-block;">
