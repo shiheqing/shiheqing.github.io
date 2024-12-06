@@ -12,4 +12,4 @@ order: 3
 **"Economics-Aware Machine Learning for Option-Implied Risk Metrics"**
 - *2024 Edinburgh World-Class Workshop - Fintech Session, 28 Jun 2024, University of Edinburgh Business School*
 - *2024 Doctoral Finance Symposium - New Ideas Session, 05 Jul 2024, Henly Business School, University of Reading*
-- *The 8<sup>th</sup> Shanghai-London-Edinburgh Fintech Conference, 26 Oct 2024, Machine Learning and Finance Session
+- *The 8<sup>th</sup> Shanghai-London-Edinburgh Fintech Conference, 26 Oct 2024, Machine Learning and Finance Session*
