@@ -24,7 +24,7 @@ We propose a Finance-informed Neural Network (FINN) framework for option pricing
 
 <div style="text-align: center;">
   <figure style="display: inline-block;">
-    <img src="/images/FINNs_option_price_surf_simulation_ReLU_v2_.png" alt="FINNs" style="width: 100%; height: auto">
+    <img src="/images/FINNs_option_price_surf_simulation_ReLU_v2_.png" alt="FINNs" style="width: 150%; height: auto">
     <figcaption>FINNs with various functional specifications with domain knowledge</figcaption>
   </figure>
 </div>
