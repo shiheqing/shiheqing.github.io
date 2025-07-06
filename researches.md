@@ -19,12 +19,12 @@ I'm currently working on the estimation of predictive information for stocks fro
   </figure>
 </div>
 
-- **<u>Bridging Theory and Data: Finance-informed Neural Networks for Option Pricing</u>** <br><br>
-We propose a Finance-informed Neural Network (FINN) framework for option pricing which encodes the domain knowledge given by the functional $g$ of an option pricing model with (semi) closed-form solution into a data-driven neural network.
+- **<u>Finance-informed Neural Networks for Option Pricing</u>** <br><br>
+We propose a Finance-informed Neural Network (FINN) framework for option pricing which encodes the domain knowledge given by the functional of an option pricing model with (semi) closed-form solution into a data-driven neural network.
 
 <div style="text-align: center;">
   <figure style="display: inline-block;">
-    <img src="/images/FINNs_option_price_surf_simulation_ReLU_v2.png" alt="Recovered RNDs for IBM" style="width: 100%; height: auto">
-    <figcaption>FINNs with various $g$ specifications</figcaption>
+    <img src="/images/FINNs_option_price_surf_simulation_ReLU_v2.png" alt="FINNs" style="width: 150%; height: auto">
+    <figcaption>FINNs with various functional specifications with domain knowledge</figcaption>
   </figure>
 </div>
