@@ -19,8 +19,8 @@ I'm currently working on the estimation of predictive information for stocks fro
   </figure>
 </div>
 
-- **<u>Finance-informed Neural Networks for Option Pricing:</u>** <br><br>
-We propose a Finance-informed Neural Network (FINN) framework for option pricing which encodes the domain knowledge given by the functional of an option pricing model who admits a (semi) closed-form solution into a data-driven neural network. Our FINN framwork allows a battery of option pricing functionals, and outperforms both the plain data-driven neural network, and the structural models, for the task of pricing and hedging. 
+- **<u>Finance-Informed Neural Networks for Option Pricing:</u>** <br><br>
+We propose a Finance-informed Neural Network (FINN) framework for option pricing which encodes the domain knowledge given by the functional of an option pricing model who admits a (semi) closed-form solution into a data-driven neural network. Our FINN framwork allows a battery of option pricing functionals, and outperforms both the plain data-driven neural network, and the structural models, for the tasks of pricing and hedging. 
 
 <div style="text-align: center;">
   <figure style="display: inline-block;">
