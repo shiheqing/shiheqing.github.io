@@ -20,7 +20,7 @@ order: 5
 - I presented the paper "Economics-Aware Machine Learning for Option-Implied Risk Metrics" (coauthored with Yi Cao, JXTLU and Zexun Chen, UEBS) in EFMA 2025 Annual Meeting, Athens, Greece
 <div style="text-align: center;">
   <figure style="display: inline-block;">
-    <img src="/images/efma2025_me.jpg" alt="efma2025" style="width: 100%; height: auto">
+    <img src="/images/efma2025_me.jpg" alt="efma2025" style="width: 50%; height: auto">
     <figcaption>EFMA 2025, Deree-The American College of Greece</figcaption>
   </figure>
 </div>
