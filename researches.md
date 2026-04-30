@@ -21,7 +21,7 @@ The recovery (estimation) of asset return risk-neutral densities from cross-sect
 
 <br><br><br>
 
-- **<u>"Bridging Structured Knowledge and Data: A Unified Framework with Finance Applications",</u>** <span style="color: blue;"><em>coauthored with Yi Cao, Zexun Chen, Lin William Cong, Guangyan Gan, </em></span><span style="color: red;"><em>presented at FoFI (Lancaster) 2026, ABFER 2026<sup>†</sup>, 5th Annual Hong Kong Conference on FinTech and AI in Finance<sup>†</sup>, ESIF 2026<sup>†</sup>, SoFiE 2026<sup>†</sup>, 中国金融学术年会 CFRC 2026<sup>†</sup>, ESEM 2026<sup>†</sup></em></span>[^presented]<br><br>
+- **<u>"Bridging Structured Knowledge and Data: A Unified Framework with Finance Applications",</u>** <span style="color: blue;"><em>coauthored with Yi Cao, Zexun Chen, Lin William Cong, Guangyan Gan, </em></span><span style="color: red;"><em>presented at FoFI (Lancaster) 2026, ABFER 2026<sup>†</sup>, 5th Annual Hong Kong Conference on FinTech and AI in Finance<sup>†</sup>, ESIF 2026<sup>†</sup>, SoFiE 2026<sup>†</sup>, 中国金融学术年会 CFRC 2026<sup>†</sup>, ESEM 2026<sup>†</sup></em></span><br><br>
 We develop Structured-Knowledge-Informed Neural Networks (SKINNs), a unified estimation framework that embeds theoretical, simulated, previously learned, or cross-domain insights as differentiable constraints within flexible neural function approximation. SKINNs jointly estimate neural network parameters and economically meaningful structural parameters in a single optimization problem, enforcing theoretical consistency not only on observed data but over a broader input domain through collocation, and therefore nesting approaches such as functional GMM, Bayesian updating, transfer learning, PINNs, and surrogate modeling. SKINNs define a class of M-estimators that are consistent and asymptotically normal with $\sqrt{N}$ convergence, sandwich covariance, and recovery of pseudo-true parameters under misspecification. We establish identification of structural parameters under joint flexibility, derive generalization and target-risk bounds under distributional shift in a convex proxy, and provide a restricted-optimal characterization of the weighting parameter that governs the bias–variance tradeoff. In an illustrative financial application to option pricing, SKINNs improve out-of-sample valuation and hedging performance, particularly at longer horizons and during high-volatility regimes, while recovering economically interpretable structural parameters with improved stability relative to conventional calibration. More broadly, SKINNs provide a general econometric framework for combining model-based reasoning with high-dimensional, data-driven estimation.
 
 <div style="text-align: center;">
@@ -31,4 +31,6 @@ We develop Structured-Knowledge-Informed Neural Networks (SKINNs), a unified est
   </figure>
 </div>
 
-[^presented]: The dagger symbol (<sup>†</sup>) indicates a conference at which the paper is to be presented.
+<hr style="margin-top: 2.5rem; border: 0; border-top: 1px solid #e5e5e5;">
+
+<p style="font-size: 0.92em; color: #515151; margin-top: 1rem;"><sup>†</sup> Conference at which the paper is to be presented.</p>
