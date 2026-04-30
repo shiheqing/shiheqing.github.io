@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About Myself
+show_date: false
 ---
 
 <div style="text-align: center;">
