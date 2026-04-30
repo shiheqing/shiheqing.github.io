@@ -31,6 +31,8 @@ We develop Structured-Knowledge-Informed Neural Networks (SKINNs), a unified est
   </figure>
 </div>
 
-<hr style="margin-top: 2.5rem; border: 0; border-top: 1px solid #e5e5e5;">
+<div style="clear: both; text-align: left; margin-top: 2.5rem;">
+  <hr style="margin: 0 0 1rem 0; border: 0; border-top: 1px solid #e5e5e5;">
 
-<p style="font-size: 0.92em; color: #515151; margin-top: 1rem;"><sup>†</sup> Conference at which the paper is to be presented.</p>
+  <p style="font-size: 0.92em; color: #515151; margin: 0; text-align: left;"><sup>†</sup> Conference to be presented.</p>
+</div>
