@@ -9,7 +9,7 @@ permalink: /bio/
 <br>
 
 <div style="text-align: left;">
-    <img class="img-right" src="/images/IMG_2596.JPG" alt="Headshot" style="width: 420px; max-width: 100%; height: auto; border-radius: 8px;">
+    <img class="img-center" src="/images/IMG_2596.JPG" alt="Headshot" style="width: 420px; max-width: 100%; height: auto; border-radius: 8px;">
 </div>
 
 I'm a PhD candidate in [Financial Technology (Fintech) at The University of Edinburgh](https://www.business-school.ed.ac.uk/phd/financial-technology). I have been previously studying and living in London for four years, during which I obtained my [BSc Statistics, Economics and Finance from University College London](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/statistics-economics-finance-bsc), and my [MSc Financial Mathematics from Bayes Business School (formerly Cass), City University of London](https://www.cass.city.ac.uk/study/masters/courses/financial-mathematics). I moved to Edinburgh (which is a beautiful and historic city) in September 2022 when my PhD journy formally starts.
