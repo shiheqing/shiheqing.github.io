@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-display_title_html: <u>Research</u>
+display_title_html: <strong><u>Research</u></strong>
 order: 1
 ---
 
