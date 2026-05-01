@@ -5,6 +5,8 @@ display_title_html: <strong><u>Miscellaneous</u></strong>
 order: 5
 ---
 
+<br>
+
 <!--<p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>-->

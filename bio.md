@@ -6,6 +6,8 @@ order: 0
 permalink: /bio/
 ---
 
+<br>
+
 <div style="text-align: left;">
     <img src="/images/IMG_2596.JPG" alt="Headshot" style="width: 300px; max-width: 100%; height: auto; border-radius: 8px;">
 </div>
