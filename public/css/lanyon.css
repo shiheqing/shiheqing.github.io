@@ -40,6 +40,22 @@ body {
   overflow-x: hidden;
 }
 
+/* Per-image alignment helpers for markdown pages */
+img.img-left {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+img.img-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.img-right {
+  margin-left: auto;
+  margin-right: 0;
+}
+
 html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
 }
