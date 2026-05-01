@@ -34,6 +34,9 @@ We develop **S**tructured-**K**nowledge-**I**nformed **N**eural **N**etworks, a 
   </figure>
 </div>
 
+<br><br>
+## Publications &nbsp; &#128213;
+
 <br>
 <div style="clear: both; text-align: left; margin-top: 2.5rem;">
   <hr style="margin: 0 0 1rem 0; border: 0; border-top: 1px solid #e5e5e5;">
