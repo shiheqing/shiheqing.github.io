@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Codes
+display_title_html: <strong><u>Codes</u></strong>
 order: 2
 ---
 

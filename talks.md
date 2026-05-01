@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Talks
+display_title_html: <strong><u>Talks</u></strong>
 order: 3
 ---
 

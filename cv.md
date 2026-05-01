@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
+display_title_html: <strong><u>Curriculum Vitae</u></strong>
 order: 4
 ---
 

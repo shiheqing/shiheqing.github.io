@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Miscellaneous
+display_title_html: <strong><u>Miscellaneous</u></strong>
 order: 5
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bio
+display_title_html: <strong><u>Bio</u></strong>
 order: 0
 permalink: /bio/
 ---
