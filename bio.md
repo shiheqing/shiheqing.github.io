@@ -19,8 +19,7 @@ During my spare time, I usually travel around, do my workout in a gym, or simply
 
 <br><br>
 
-Research Interests
-======
+## Research Interests
 
 * Option pricing, asset pricing, and their interplay
 * Financial econometrics
