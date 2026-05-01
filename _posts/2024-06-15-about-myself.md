@@ -14,9 +14,11 @@ I'm a PhD candidate in [Financial Technology (Fintech) at The University of Edin
 
 During my spare time, I usually travel around, do my workout in a gym, or simply stay at home and pick up some interesting knowledge and skills from [Coursera](https://www.coursera.org/) or [哔哩哔哩](https://www.bilibili.com/). I have great interests in stochastic modelling, machine learning, and their applications in quantitative finance. My PhD project is jointly supervised by [Dr. Yi Cao](https://www.business-school.ed.ac.uk/staff/yi-cao) who is an expert in financial machine learning and [Dr. Zexun Chen](https://www.business-school.ed.ac.uk/staff/zexun-chen) who is an expert in probablistic machine modelling and non-parametric Bayesian predictive methods.
 
+<br><br>
+
 Research Interests
 ======
 
-* Option pricing and option-implied information;
-* Risk forecasting and asset pricing;
-* Ehance/explain the above with machine learning models;
+* Option pricing, asset pricing, and their interplay;
+* Financial econometrics;
+* AI for finance;
