@@ -4,6 +4,7 @@ title: Talks
 display_title_html: <strong><u>Talks</u></strong>
 order: 3
 hidden: true
+published: false
 ---
 
 <!--<p class="message">
