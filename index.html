@@ -4,7 +4,9 @@ title: Home
 ---
 
 <meta http-equiv="refresh" content="0; url={{ '/bio/' | absolute_url }}">
-<p>If you are not redirected automatically, open <a href="{{ '/bio/' | absolute_url }}">Bio</a>.</p>
+<script>
+  window.location.replace("{{ '/bio/' | absolute_url }}");
+</script>
 
 <!--<div class="pagination">
   {% if paginator.next_page %}
