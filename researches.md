@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-display_title_html: <span class="fraktur-title">Research</span>
+display_title_html: <u>Research</u>
 order: 1
 ---
 
