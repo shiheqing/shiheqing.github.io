@@ -322,6 +322,11 @@ a.sidebar-nav-item:focus {
   margin-top: 0;
 }
 
+.fraktur-title {
+  font-family: "UnifrakturCook", "Old English Text MT", "Lucida Blackletter", "Goudy Text MT", serif;
+  font-weight: 700;
+}
+
 /* Meta data line below post title */
 .post-date {
   display: block;
