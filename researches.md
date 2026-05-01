@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+display_title_html: <span style="font-family: 'Old English Text MT', 'Lucida Blackletter', 'Goudy Text MT', 'UnifrakturCook', 'UnifrakturMaguntia', serif;">Research</span>
 order: 1
 ---
 
