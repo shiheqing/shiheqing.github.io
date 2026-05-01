@@ -5,7 +5,7 @@ show_date: false
 ---
 
 <div style="text-align: center;">
-    <img src="/images/IMG_2596.JPG" alt="Headshot" style="width: 280px; max-width: 80%; height: auto; border-radius: 8px;">
+    <img src="/images/IMG_2596.JPG" alt="Headshot" style="width: 280px; max-width: 90%; height: auto; border-radius: 8px;">
 </div>
 
 
@@ -19,6 +19,6 @@ During my spare time, I usually travel around, do my workout in a gym, or simply
 Research Interests
 ======
 
-* Option pricing, asset pricing, and their interplay;
-* Financial econometrics;
-* AI for finance;
+* Option pricing, asset pricing, and their interplay
+* Financial econometrics
+* AI for finance
