@@ -3,23 +3,8 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    {% if post.show_date != false %}
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-    {% endif %}
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+<meta http-equiv="refresh" content="0; url={{ '/bio/' | absolute_url }}">
+<p>If you are not redirected automatically, open <a href="{{ '/bio/' | absolute_url }}">Bio</a>.</p>
 
 <!--<div class="pagination">
   {% if paginator.next_page %}
