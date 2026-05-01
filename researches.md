@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <span style="font-family: 'Old English Text MT', 'Lucida Blackletter', 'Goudy Text MT', serif;">Resrarch</span>
+title: Research
 order: 1
 ---
 
