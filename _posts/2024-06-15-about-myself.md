@@ -5,7 +5,7 @@ show_date: false
 ---
 
 <div style="text-align: center;">
-    <img src="/images/IMG_2596.JPG" alt="Headshot" style="width: 280px; max-width: 90%; height: auto; border-radius: 8px;">
+    <img src="/images/IMG_2596.JPG" alt="Headshot" style="width: 280px; max-width: 50%; height: auto; border-radius: 8px;">
 </div>
 
 
