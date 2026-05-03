@@ -8,9 +8,9 @@ order: 4
 <br>
 
 ## Education
-* BSc in Statistics, Economics and Finance, University College London (伦敦大学学院), 2016-2019
-* MSc in Financial Mathematics, Bayes Business School (贝叶斯商学院), 2019-2020
-* PhD in Financial Technology, University of Edinburgh Business School (爱丁堡大学商学院), 2022-Present
+* PhD in Financial Technology, Business School, University of Edinburgh, 2022-Present
+* MSc in Financial Mathematics, Bayes Business School, City St George's University of London, 2019-2020
+* BSc in Statistics, Economics and Finance, Department of Statistical Science, University College London, 2016-2019
 <br><br>
 
 ## Awards & Certificates
@@ -21,7 +21,7 @@ order: 4
 <br><br>
 
 ## Softwares
-R / MATLAB / Python / Latex
+Python / Latex / R / Matlab
 <br>
 <br>
 <br>
