@@ -26,7 +26,7 @@ order: 5
 <br>
 <div style="text-align: center;">
   <figure style="display: inline-block;">
-    <img src="/images/efma2025_me.jpg" alt="efma2025" style="width: 15%; height: auto">
+    <img src="/images/efma2025_me.jpg" alt="efma2025" style="width: 30%; height: auto">
     <figcaption>EFMA 2025, Deree-The American College of Greece</figcaption>
   </figure>
 </div>
