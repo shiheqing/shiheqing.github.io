@@ -28,6 +28,9 @@ order: 5
   </figure>
 </div>
 
+{% assign gc = site.goatcounter_code | default: '' | strip %}
+{% if gc != '' %}
 <div style="text-align: center; margin-top: 2rem;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shiheqing.github.io" alt="Visitor count" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+  <img src="https://{{ gc }}.goatcounter.com/counter/TOTAL.svg?no_branding=1" alt="Visitor count" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
 </div>
+{% endif %}
