@@ -23,14 +23,6 @@ plugins:
 version:             1.1.0
 google_analytics_id: G-8CWTH2F3FT
 
-# Site-wide visit counter (GoatCounter). All pages are recorded as path "/" so one session
-# across the site behaves as one visit; reloads on the same path do not add visits (see
-# https://www.goatcounter.com/help/sessions ). Subdomain must match your GoatCounter site.
-# 1) https://www.goatcounter.com — add site https://shiheqing.github.io
-# 2) Settings → enable "Allow adding visitor counts on your website"
-# 3) If your subdomain is not "shiheqing", change it below.
-goatcounter_code: shiheqing
-
 markdown: kramdown
 kramdown:
   math_engine: mathjax

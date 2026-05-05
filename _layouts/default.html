@@ -22,24 +22,6 @@
       <div class="container content">
         {{ content }}
       </div>
-
-      {% assign goatcounter = site.goatcounter_code | default: '' | strip %}
-      {% if goatcounter != '' %}
-      <div class="container" style="margin-top: 2rem; padding-bottom: 1.5rem;">
-        <div class="goatcounter-site-visits" style="text-align: center; font-size: 0.9rem;"></div>
-        {% comment %} Record every URL as "/" so one session across pages is one site visit, not one per path. {% endcomment %}
-        <script data-goatcounter="https://{{ goatcounter }}.goatcounter.com/count"
-                data-goatcounter-settings='{"path": "/"}'
-                src="https://gc.zgo.at/count.js"></script>
-        <script>
-          window.goatcounter.visit_count({
-            append: '.goatcounter-site-visits',
-            path: 'TOTAL',
-            type: 'html'
-          });
-        </script>
-      </div>
-      {% endif %}
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
