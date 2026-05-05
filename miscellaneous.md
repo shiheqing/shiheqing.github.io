@@ -27,10 +27,3 @@ order: 5
     <figcaption>EFMA 2025, Deree-The American College of Greece</figcaption>
   </figure>
 </div>
-
-{% assign gc = site.goatcounter_code | default: '' | strip %}
-{% if gc != '' %}
-<div style="text-align: center; margin-top: 2rem;">
-  <img src="https://{{ gc }}.goatcounter.com/counter/TOTAL.svg?no_branding=1" alt="Visitor count" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
-</div>
-{% endif %}

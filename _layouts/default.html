@@ -26,13 +26,6 @@
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-    {% assign gc = site.goatcounter_code | default: '' | strip %}
-    {% if gc != '' %}
-    <script data-goatcounter="https://{{ gc }}.goatcounter.com/count"
-            data-goatcounter-settings='{"path": "/"}'
-            src="https://gc.zgo.at/count.js"></script>
-    {% endif %}
-
     <script src='{{ site.baseurl }}/public/js/script.js'></script>
 
   </body>

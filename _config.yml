@@ -23,12 +23,6 @@ plugins:
 version:             1.1.0
 google_analytics_id: G-8CWTH2F3FT
 
-# GoatCounter: site-wide visits with session dedupe (IP + User-Agent, ~8h); reloads do not add
-# another visit for the same path. All pages send path "/" so one browse session counts once for
-# the whole site. https://www.goatcounter.com/help/sessions
-# Create site for https://shiheqing.github.io → Settings → enable "Allow adding visitor counts".
-goatcounter_code: shiheqing
-
 markdown: kramdown
 kramdown:
   math_engine: mathjax
