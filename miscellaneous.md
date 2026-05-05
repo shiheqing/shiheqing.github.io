@@ -27,7 +27,3 @@ order: 5
     <figcaption>EFMA 2025, Deree-The American College of Greece</figcaption>
   </figure>
 </div>
-
-<div style="text-align: center; margin-top: 2rem;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shiheqing.github.io.miscellaneous" alt="Page views" loading="lazy">
-</div>

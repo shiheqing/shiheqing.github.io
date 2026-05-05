@@ -23,6 +23,12 @@ plugins:
 version:             1.1.0
 google_analytics_id: G-8CWTH2F3FT
 
+# Site-wide visit counter (sessions dedupe refreshes via IP+UA; see https://www.goatcounter.com/help/sessions ).
+# 1) Sign up at https://www.goatcounter.com with site URL https://shiheqing.github.io
+# 2) Settings → enable "Allow adding visitor counts on your website"
+# 3) Set your code (subdomain) below, e.g. shiheqing → https://shiheqing.goatcounter.com
+goatcounter_code:
+
 markdown: kramdown
 kramdown:
   math_engine: mathjax
