@@ -26,4 +26,4 @@ Python / R / Matlab / LaTeX
 <br>
 <br>
 <br>
-<a href="https://docs.qq.com/pdf/DSXdoZHV2Vk1MYUpP" target="_blank">*Check here for detailed CV</a>
+<a href="https://docs.qq.com/pdf/DSXdoZHV2Vk1MYUpP" target="_blank">*Download CV</a>
