@@ -585,8 +585,8 @@ a.pagination-item:hover {
 /* Dark mode toggle and color overrides */
 .theme-toggle {
   position: fixed;
-  top: .8rem;
-  right: 1rem;
+  top: .85rem;
+  right: 2rem;
   z-index: 11;
   width: 2.1rem;
   height: 2.1rem;
