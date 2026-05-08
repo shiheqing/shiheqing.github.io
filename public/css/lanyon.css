@@ -130,6 +130,10 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0;
 }
 
+.masthead .container {
+  position: relative;
+}
+
 @media (max-width: 48em) {
   .masthead-title {
     text-align: center;
@@ -584,10 +588,10 @@ a.pagination-item:hover {
 
 /* Dark mode toggle and color overrides */
 .theme-toggle {
-  position: fixed;
-  top: .85rem;
-  right: 3rem;
-  z-index: 11;
+  position: absolute;
+  top: 0;
+  right: 1rem;
+  z-index: 2;
   width: 2.1rem;
   height: 2.1rem;
   padding: 0;
@@ -599,6 +603,12 @@ a.pagination-item:hover {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+@media (max-width: 48em) {
+  .theme-toggle {
+    right: .5rem;
+  }
 }
 
 .theme-toggle:hover,
