@@ -295,13 +295,15 @@ a.sidebar-nav-item:focus {
 
 .wrap,
 .sidebar,
-.sidebar-toggle {
+.sidebar-toggle,
+.theme-toggle {
   -webkit-backface-visibility: hidden;
       -ms-backface-visibility: hidden;
           backface-visibility: hidden;
 }
 .wrap,
-.sidebar-toggle {
+.sidebar-toggle,
+.theme-toggle {
   -webkit-transition: -webkit-transform .3s ease-in-out;
           transition: transform .3s ease-in-out;
 }
@@ -588,10 +590,10 @@ a.pagination-item:hover {
 
 /* Dark mode toggle and color overrides */
 .theme-toggle {
-  position: absolute;
-  top: 0;
-  right: 1rem;
-  z-index: 2;
+  position: fixed;
+  top: .8rem;
+  left: 4.2rem;
+  z-index: 11;
   width: 2.1rem;
   height: 2.1rem;
   padding: 0;
@@ -605,10 +607,10 @@ a.pagination-item:hover {
   justify-content: center;
 }
 
-@media (max-width: 48em) {
-  .theme-toggle {
-    right: .5rem;
-  }
+#sidebar-checkbox:checked ~ .theme-toggle {
+  -webkit-transform: translateX(14rem);
+      -ms-transform: translateX(14rem);
+          transform: translateX(14rem);
 }
 
 .theme-toggle:hover,
