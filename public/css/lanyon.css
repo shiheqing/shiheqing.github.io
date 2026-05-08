@@ -581,3 +581,61 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+/* Dark mode toggle and color overrides */
+.theme-toggle {
+  margin-top: .5rem;
+  padding: .35rem .7rem;
+  border: 1px solid rgba(255,255,255,.4);
+  border-radius: .25rem;
+  background-color: transparent;
+  color: #fff;
+  font-size: .75rem;
+  cursor: pointer;
+}
+
+.theme-toggle:hover,
+.theme-toggle:focus {
+  background-color: rgba(255,255,255,.1);
+  text-decoration: none;
+}
+
+body.dark-mode {
+  color: #d4d4d4;
+  background-color: #111;
+}
+
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6,
+body.dark-mode strong {
+  color: #efefef;
+}
+
+body.dark-mode a {
+  color: #7dc4ff;
+}
+
+body.dark-mode .masthead {
+  border-bottom-color: #333;
+}
+
+body.dark-mode .masthead-title,
+body.dark-mode .masthead-title a {
+  color: #dfdfdf;
+}
+
+body.dark-mode .sidebar-toggle {
+  color: #ddd;
+  background-color: #1f1f1f;
+}
+
+body.dark-mode .sidebar-toggle:active,
+body.dark-mode #sidebar-checkbox:focus ~ .sidebar-toggle,
+body.dark-mode #sidebar-checkbox:checked ~ .sidebar-toggle {
+  color: #fff;
+  background-color: #444;
+}
