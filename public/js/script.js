@@ -20,7 +20,9 @@
 
   function setButtonLabel(isDark) {
     if (!toggleButton) return;
-    toggleButton.textContent = isDark ? 'Light mode' : 'Dark mode';
+    var label = isDark ? 'Switch to light mode' : 'Switch to dark mode';
+    toggleButton.setAttribute('aria-label', label);
+    toggleButton.setAttribute('title', label);
   }
 
   function applyTheme(theme) {

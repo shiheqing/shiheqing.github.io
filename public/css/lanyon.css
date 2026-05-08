@@ -584,20 +584,31 @@ a.pagination-item:hover {
 
 /* Dark mode toggle and color overrides */
 .theme-toggle {
-  margin-top: .5rem;
-  padding: .35rem .7rem;
-  border: 1px solid rgba(255,255,255,.4);
-  border-radius: .25rem;
-  background-color: transparent;
-  color: #fff;
-  font-size: .75rem;
+  position: fixed;
+  top: .8rem;
+  right: 1rem;
+  z-index: 11;
+  width: 2.1rem;
+  height: 2.1rem;
+  padding: 0;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  background-color: #fff;
+  color: #555;
   cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .theme-toggle:hover,
 .theme-toggle:focus {
-  background-color: rgba(255,255,255,.1);
+  background-color: #f4f4f4;
   text-decoration: none;
+}
+
+.theme-toggle-icon-dark {
+  display: none;
 }
 
 body.dark-mode {
@@ -638,4 +649,23 @@ body.dark-mode #sidebar-checkbox:focus ~ .sidebar-toggle,
 body.dark-mode #sidebar-checkbox:checked ~ .sidebar-toggle {
   color: #fff;
   background-color: #444;
+}
+
+body.dark-mode .theme-toggle {
+  border-color: #444;
+  background-color: #1f1f1f;
+  color: #eee;
+}
+
+body.dark-mode .theme-toggle:hover,
+body.dark-mode .theme-toggle:focus {
+  background-color: #2b2b2b;
+}
+
+body.dark-mode .theme-toggle-icon-light {
+  display: none;
+}
+
+body.dark-mode .theme-toggle-icon-dark {
+  display: inline;
 }
