@@ -586,7 +586,7 @@ a.pagination-item:hover {
 .theme-toggle {
   position: fixed;
   top: .85rem;
-  right: 2rem;
+  right: 3rem;
   z-index: 11;
   width: 2.1rem;
   height: 2.1rem;
@@ -605,6 +605,11 @@ a.pagination-item:hover {
 .theme-toggle:focus {
   background-color: #f4f4f4;
   text-decoration: none;
+}
+
+.theme-toggle-icon {
+  font-size: 1.2rem;
+  line-height: 1;
 }
 
 .theme-toggle-icon-dark {
