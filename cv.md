@@ -21,7 +21,7 @@ order: 4
 <br><br>
 
 ## Softwares
-Python / Latex / R / Matlab
+Python / R / Matlab / LaTeX
 <br>
 <br>
 <br>
