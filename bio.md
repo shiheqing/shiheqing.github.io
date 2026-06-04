@@ -12,9 +12,9 @@ permalink: /bio/
     <img class="img-center" src="/images/IMG_2596.JPG" alt="Headshot" style="width: 420px; max-width: 100%; height: auto; border-radius: 8px;">
 </div>
 <br><br><br>
-I'm a PhD candidate in [Financial Technology (Fintech) at The University of Edinburgh](https://www.business-school.ed.ac.uk/phd/financial-technology). I have been previously studying and living in London for four years, during which I obtained my [BSc Statistics, Economics and Finance from University College London](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/statistics-economics-finance-bsc), and my [MSc Financial Mathematics from Bayes Business School (formerly Cass), City University of London](https://www.cass.city.ac.uk/study/masters/courses/financial-mathematics). I moved to Edinburgh (which is a beautiful and historic city) in September 2022 when my PhD journey formally starts.
+Hi &#128075; Welcome to my page! I'm a PhD candidate in Financial Technology (Fintech) at **Business School, The University of Edinburgh**. I'm now on the job market and expected to obtain my degree late this year (2026). I'm looking for a research-based position in Finance (asset & derivative pricing, financial econometrics, financial AI & ML to be specific), starting late 2026 / early 2027.
 
-During my spare time, I usually travel around, do my workout in a gym, or simply stay at home and pick up some interesting knowledge and skills from [Coursera](https://www.coursera.org/) or [哔哩哔哩](https://www.bilibili.com/). I have great interests in stochastic modelling, machine learning, and their applications in quantitative finance. My PhD project is jointly supervised by [Dr. Yi Cao](https://www.business-school.ed.ac.uk/staff/yi-cao) who is an expert in financial machine learning and [Dr. Zexun Chen](https://www.business-school.ed.ac.uk/staff/zexun-chen) who is an expert in probabilistic machine modelling and non-parametric Bayesian predictive methods.
+My PhD research is advised by Dr. Yi Cao (Xi'an Jiaotong-Liverpool University) and Dr. Zexun Chen (Business School, The University of Edinburgh). Both of them have deeply influenced and inspired me, both academically and personally.
 
 <br><br>
 
